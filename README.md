@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Srinivas</h1>
 <h3 align="center">A passionate project manager.</h3>
 
-- 🔭 I’m currently working on **LyphPi**
+- 🔭 I’m currently working on **Trigen**
 
 - 🌱 I’m currently learning **NextJs,VueJs**
 
